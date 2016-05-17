@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ActivityLifecycleExample</string>
+
+    <string name="textview_first_activity">First activity</string>
+    <string name="textview_second_activity">Second activity</string>
+    <string name="textview_name">Name:</string>
+    <string name="textview_surname">Surname:</string>
+    <string name="button_to_second">Go to second activity</string>
+    <string name="button_back">Back</string>
+</resources>
